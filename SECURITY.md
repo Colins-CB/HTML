@@ -14,7 +14,7 @@
 We take the security of our project seriously. If you believe you have found a security vulnerability, please follow these steps:
 
 1. **Do Not Open a Public Issue:** To protect our users, please do not report security bugs through public GitHub issues.
-2. **Email Us:** Send a detailed report to **security@yourdomain.com**. 
+2. **Email Us:** Send a detailed report to **colinsbett94@gmail.com**. 
 3. **Information to Include:**
     * A description of the vulnerability.
     * Steps to reproduce the issue (a Proof of Concept).
